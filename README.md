@@ -1,4 +1,5 @@
 📚 AI-Powered Knowledge Graph to Manim Animation Automation
+
 🌟 Overview
 
 This project automates the creation of educational videos using AI + Knowledge Graphs + Manim.
